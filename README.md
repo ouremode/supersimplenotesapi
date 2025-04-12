@@ -1,15 +1,14 @@
-# Elysia with Bun runtime
+## Clone and import the repo in onrender dashboard
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
 
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
 
-Open http://localhost:3000/ with your browser to see the result.
+## Environment variables
+
+
+> Create the environment variables using Neon and Expo
+
+
+[🔗 Get your expo access token](https://expo.dev/accounts/YOUR_USERNAME/settings/access-tokens)
+
+
+> replace `YOUR_USERNAME` with yours
